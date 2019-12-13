@@ -1,4 +1,4 @@
-# DBMS
+Database Systems - CSE 5260
 FInal project fore CSE 4020/5260
 CSE 4020
 CSE 5260
