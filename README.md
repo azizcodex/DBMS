@@ -1,5 +1,5 @@
 Database Systems - CSE 5260
-FInal project fore CSE 4020/5260
+FInal project for CSE 4020/5260
 CSE 4020
 CSE 5260
 Reference for those who want to finish their final project. 
