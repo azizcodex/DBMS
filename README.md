@@ -3,7 +3,7 @@ FInal project fore CSE 4020/5260
 CSE 4020
 CSE 5260
 Reference for those who want to finish their final project. 
-Everything is included .DB files, .DDL Files .Sql files and (.pdf report might help you solve in section 2 and 3) 
+Everything is included .DB files, .DDL Files .Sql files and (.pdf report might help you solve  section 2 and 3) 
  
  
 Design a database for storing information about a conference organization, including event, venue, chairs, reviewers, authors, papers (using sqlite3):
